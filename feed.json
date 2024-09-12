@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Readers Retreat",
+    "description": "",
+    "home_page_url": "https://samkelemerrifield.github.io/mywebsite",
+    "feed_url": "https://samkelemerrifield.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Charlotte Abelli"
+    },
+    "items": [
+    ]
+}

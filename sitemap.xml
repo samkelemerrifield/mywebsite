@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://samkelemerrifield.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://samkelemerrifield.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://samkelemerrifield.github.io/mywebsite/about-us.html</loc>
+<lastmod>2024-09-05T09:37:54+02:00</lastmod>
+</url>
+<url>
+<loc>https://samkelemerrifield.github.io/mywebsite/contact.html</loc>
+<lastmod>2024-09-05T08:57:20+02:00</lastmod>
+</url>
+<url>
+<loc>https://samkelemerrifield.github.io/mywebsite/genres.html</loc>
+<lastmod>2024-09-05T09:21:47+02:00</lastmod>
+</url>
+<url>
+<loc>https://samkelemerrifield.github.io/mywebsite/top-sellers.html</loc>
+<lastmod>2024-09-05T08:52:06+02:00</lastmod>
+<image:image>
+<image:loc>https://samkelemerrifield.github.io/mywebsite/media/posts/2/download-6.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://samkelemerrifield.github.io/mywebsite/media/posts/2/download-5.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://samkelemerrifield.github.io/mywebsite/media/posts/2/download-4.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
